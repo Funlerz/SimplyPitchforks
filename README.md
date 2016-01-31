@@ -4,9 +4,11 @@ Simply Pitchforks adds a new tool to the game: pitchforks.
 
 A pitchfork is crafted by placing the materials in a + shape in the crafting table, as such:
 
+```
  M
 M|M
  |
+```
  
 The two vertical lines represent sticks, which are constant in each pitchfork recipe. The M is what changes.
 
